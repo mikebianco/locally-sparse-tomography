@@ -1,6 +1,6 @@
 # Locally sparse tomography
 This is a Matlab implementation of the locally sparse travel time tomography (LST) algorithm for seismic and acoustic data as presented in the paper:
-M.J. Bianco and P. Gerstoft, "Travel time tomography with adaptive dictionaries," IEEE Trans. Computational Imaging, Vol. 4, No. 4, 2018.
+M.J. Bianco and P. Gerstoft, "Travel time tomography with adaptive dictionaries," IEEE Trans. Computational Imaging, Vol. 4, No. 4, 2018.(DOI: https://doi.org/10.1109/TCI.2018.2862644)
 
 The other tomography methods in the paper, conventional and total variation-regularized tomography, are also implemented for comparison. Figures similar to those in the paper (Bianco and Gerstoft 2018) are generated in a series of synthetic tests. These tests include cases with and without noise.
 
